@@ -1,4 +1,4 @@
-package es.santander.ascender;
+package es.santander.ascender.proyecto03;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 /**
  * Unit test for simple App.
  */
-public class AppTest {
+public class AppTest { 
 
     /**
      * Rigorous Test :-)
