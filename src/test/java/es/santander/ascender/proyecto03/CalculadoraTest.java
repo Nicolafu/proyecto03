@@ -25,7 +25,12 @@ public class CalculadoraTest {
             Calculadora sut = new Calculadora();
             assertTrue(sut.dividir(20, 4) == 5);
         }
-            
+    @Test
+        public void testPresentarTablaMultiplicar() {
+            Calculadora calculadora = new Calculadora();
+
+            calculadora.presentarTablaMultiplicar(6);
+        }        
 }
 
 //public class TestSumando {
